@@ -25,3 +25,18 @@ h2 {
     border-bottom: 2px solid #f4f6f8;
     padding-bottom: 8px;
 }
+
+/* --- TAMBAHKAN KODE INI DI BAWAH --- */
+.about-content {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.profil-img {
+    width: 140px;
+    height: 140px;
+    object-fit: cover;
+    border-radius: 50%; /* Membuat foto berbentuk lingkaran */
+    border: 3px solid #0066cc;
+}
